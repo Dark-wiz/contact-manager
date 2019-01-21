@@ -10,7 +10,7 @@ const Header = props => {
         </a>
         <div>
           <ul className="navbar-nav mr-auto">
-            <li classNamee="nav-item">
+            <li className="nav-item">
               <a href="/" className="nav-link">
                 Home
               </a>
